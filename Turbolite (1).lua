@@ -2,7 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/hdanhhub/ref
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDangNhoEm/TuanAnhIOS/refs/heads/main/koby"))()
 
 -- ==========================================
--- SERVICES
+-- SERVICES .
 -- ==========================================
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
